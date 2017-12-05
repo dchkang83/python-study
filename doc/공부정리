@@ -2561,3 +2561,79 @@
 			- email 모듈 사용
 
 // ####################### 25교시 종료 ####################### //
+
+
+
+
+
+const port = ":9000"
+const server = "http://" + window.location.hostname + port
+
+//common
+const _request = (request, resolve) => {
+  fetch(request)
+  .then(res => {
+    let contentType = res.headers.get("content-type")
+    if (contentType && contentType.includes("application/json")) {
+      resolve(res.json())
+    }
+  })
+  .catch(err => console.error("api send has error => ", err, request))
+}
+
+//GET
+export function get (url) {
+  return new Promise(function(resolve, reject) {
+    const conf = {
+      method: 'GET',
+      headers: new Headers(),
+      cache: 'default'
+    }
+    _request(new Request(server + url, conf), resolve)
+  })
+}
+
+//POST
+export function post (url) {
+  return new Promise(function(resolve, reject) {
+    const conf = {
+      method: 'POST',
+      headers: new Headers(),
+      cache: 'default'
+    }
+    _request(new Request(server + url, conf), resolve)
+  })
+}
+
+
+//POST with File
+export function postFile(url, inputId) {
+  return new Promise((resolve, reject) => {
+    const data = new FormData()
+    data.append('file', window.getElementById(inputId).files[0])
+
+    const conf = {
+      method: 'POST',
+      headers: new Header(),
+      body: data
+    }
+    _request(new Request(server + url, conf), resolve)
+  })
+}
+
+
+function postFile(url, inputId) {
+  return new Promise(function(resolve, reject) {
+    const data = new FormData()
+    data.append('uploadFile', window.document.getElementById(inputId).files[0])
+
+    console.log(data)
+    const conf = {
+      method: 'POST',
+      headers: new Headers(),
+      body: data
+    }
+    _request(new Request(url, conf), resolve)
+  })
+}
+
