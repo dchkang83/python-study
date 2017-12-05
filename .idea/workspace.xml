@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3d3044a-bf72-44da-b5ca-20f4e77980fa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/23/movie.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/24/테스트.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20/naver_search_api_sample.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20/naver_translate_api_sample.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20/yesterday.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/21/scraping_example.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22/scrap_to_csv.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22/scrap_to_excel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/23/running_time.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/23/test1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/23/timer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/24/email_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/24/send_dues_reminders.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/25/email_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/25/remote_control_by_email.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Animal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Triangle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animall_example.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csv_last_study.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csv_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/email_extractor.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/excel_example.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/excel_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exception_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file_backup.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logging_factorial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logging_factorial_file.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/megabox_log.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/regex_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/report/report.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitle.srt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/공부정리" afterPath="$PROJECT_DIR$/doc/공부정리" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,11 +35,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scrap_to_csv.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="scrap_to_csv.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/22/scrap_to_csv.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
               <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="공부정리" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/doc/공부정리">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="606">
+              <caret line="2563" column="0" lean-forward="true" selection-start-line="2563" selection-start-column="0" selection-end-line="2563" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -105,18 +83,6 @@
             <state relative-caret-position="209">
               <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="email_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/24/email_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -200,7 +166,6 @@
         <option value="$PROJECT_DIR$/calc_main.py" />
         <option value="$PROJECT_DIR$/password_validator.py" />
         <option value="$PROJECT_DIR$/password_locker.py" />
-        <option value="$PROJECT_DIR$/doc/공부정리" />
         <option value="$PROJECT_DIR$/regex_test.py" />
         <option value="$PROJECT_DIR$/email_extractor.py" />
         <option value="$PROJECT_DIR$/subtitle.srt.py" />
@@ -232,6 +197,7 @@
         <option value="$PROJECT_DIR$/24/email_test.py" />
         <option value="$PROJECT_DIR$/25/email_test.py" />
         <option value="$PROJECT_DIR$/25/remote_control_by_email.py" />
+        <option value="$PROJECT_DIR$/doc/공부정리" />
       </list>
     </option>
   </component>
@@ -266,6 +232,11 @@
             <path>
               <item name="hello" type="b2602c69:ProjectViewProjectNode" />
               <item name="hello" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -514,13 +485,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/공부정리">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21565">
-          <caret line="1135" column="0" lean-forward="false" selection-start-line="1135" selection-start-column="0" selection-end-line="1135" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -805,6 +769,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/공부정리">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="2563" column="0" lean-forward="true" selection-start-line="2563" selection-start-column="0" selection-end-line="2563" selection-end-column="0" />
           <folding />
         </state>
       </provider>
