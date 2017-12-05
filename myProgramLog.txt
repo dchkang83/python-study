@@ -1,0 +1,45 @@
+ 2017-11-21 12:44:12,264 -DEBUG - Start of factorial(6)
+ 2017-11-21 12:44:12,265 -DEBUG - i is 1, total is 1
+ 2017-11-21 12:44:12,265 -DEBUG - i is 2, total is 2
+ 2017-11-21 12:44:12,265 -DEBUG - i is 3, total is 6
+ 2017-11-21 12:44:12,265 -DEBUG - i is 4, total is 24
+ 2017-11-21 12:44:12,265 -DEBUG - i is 5, total is 120
+ 2017-11-21 12:44:12,266 -DEBUG - i is 6, total is 720
+ 2017-11-21 12:44:12,266 -DEBUG - End of factorial(6)
+ 2017-11-21 12:44:12,266 -DEBUG - End of program
+ 2017-11-21 12:44:26,196 -DEBUG - Start of factorial(6)
+ 2017-11-21 12:44:26,197 -DEBUG - i is 1, total is 1
+ 2017-11-21 12:44:26,197 -DEBUG - i is 2, total is 2
+ 2017-11-21 12:44:26,197 -DEBUG - i is 3, total is 6
+ 2017-11-21 12:44:26,198 -DEBUG - i is 4, total is 24
+ 2017-11-21 12:44:26,202 -DEBUG - i is 5, total is 120
+ 2017-11-21 12:44:26,202 -DEBUG - i is 6, total is 720
+ 2017-11-21 12:44:26,202 -DEBUG - End of factorial(6)
+ 2017-11-21 12:44:26,203 -DEBUG - End of program
+ 2017-11-21 12:44:34,674 -DEBUG - Start of factorial(6)
+ 2017-11-21 12:44:34,674 -DEBUG - i is 1, total is 1
+ 2017-11-21 12:44:34,674 -DEBUG - i is 2, total is 2
+ 2017-11-21 12:44:34,674 -DEBUG - i is 3, total is 6
+ 2017-11-21 12:44:34,674 -DEBUG - i is 4, total is 24
+ 2017-11-21 12:44:34,674 -DEBUG - i is 5, total is 120
+ 2017-11-21 12:44:34,674 -DEBUG - i is 6, total is 720
+ 2017-11-21 12:44:34,674 -DEBUG - End of factorial(6)
+ 2017-11-21 12:44:34,675 -DEBUG - End of program
+ 2017-11-21 12:44:35,045 -DEBUG - Start of factorial(6)
+ 2017-11-21 12:44:35,045 -DEBUG - i is 1, total is 1
+ 2017-11-21 12:44:35,046 -DEBUG - i is 2, total is 2
+ 2017-11-21 12:44:35,046 -DEBUG - i is 3, total is 6
+ 2017-11-21 12:44:35,046 -DEBUG - i is 4, total is 24
+ 2017-11-21 12:44:35,046 -DEBUG - i is 5, total is 120
+ 2017-11-21 12:44:35,046 -DEBUG - i is 6, total is 720
+ 2017-11-21 12:44:35,046 -DEBUG - End of factorial(6)
+ 2017-11-21 12:44:35,046 -DEBUG - End of program
+ 2017-11-21 12:44:35,221 -DEBUG - Start of factorial(6)
+ 2017-11-21 12:44:35,221 -DEBUG - i is 1, total is 1
+ 2017-11-21 12:44:35,221 -DEBUG - i is 2, total is 2
+ 2017-11-21 12:44:35,221 -DEBUG - i is 3, total is 6
+ 2017-11-21 12:44:35,221 -DEBUG - i is 4, total is 24
+ 2017-11-21 12:44:35,221 -DEBUG - i is 5, total is 120
+ 2017-11-21 12:44:35,221 -DEBUG - i is 6, total is 720
+ 2017-11-21 12:44:35,221 -DEBUG - End of factorial(6)
+ 2017-11-21 12:44:35,221 -DEBUG - End of program

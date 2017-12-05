@@ -1,0 +1,8 @@
+1
+00:00:00,290 --> 00:00:03,690
+To find the number 111
+
+2
+00:00:03,690 --> 00:00:07,650
+To find the number 222
+that there were 1,640 enrollments.
